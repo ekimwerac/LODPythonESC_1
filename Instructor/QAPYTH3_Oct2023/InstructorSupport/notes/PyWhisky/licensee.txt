@@ -1,0 +1,76 @@
+L001,M001,A.Gillies & Co.(Distillers) Ltd.
+L002,M001,Barton International Ltd.
+L003,M002,Glen Catrine Bonded Warehouse Ltd.
+L004,M003,Glenturret Distillery Ltd.
+L005,M004,J.& G. Grant
+L006,M005,William Grant & Sons Ltd.
+L007,M006,The Highland Distilleries Co. PLC
+L008,M006,Glenrothes-Glenlivet Ltd.
+L009,M006,James Grant & Co (Highland Park Distillery) Ltd.
+L010,M006,Tamdhu-Glenlivet Ltd.
+L011,M007,Gilbey Vintners Ltd.
+L012,M007,Ruchill & Ross Ltd.
+L013,M008,Bruichladdich Distillery Co Ltd.
+L014,M008,Deanston Distilleries Ltd.
+L015,M008,Glenallachie Distillery Co Ltd.
+L016,M008,Isle of Jura Distillery Co Ltd.
+L017,M008,The Tamnavulin-Glenlivet Distillery Co Ltd.
+L018,M008,Tullibardine Distillery Co Ltd.
+L019,M009,Justerini & Brooks Ltd.
+L020,M010,Lang Brothers Ltd.
+L021,M011,William Lawson Distillers Ltd.
+L022,M012,Ben Nevis (Fort William) Distillery Ltd.
+L023,M012,D. Johnston & Co Ltd.
+L024,M012,Long John International Ltd.
+L025,M013,The Macallan Distillers Ltd.
+L026,M014,The Glenmorangie Distillery Co.
+L027,M014,The Glen Moray-Glenlivet Distillery Co Ltd.
+L028,M015,J.& A. Mitchell & Co Ltd.
+L029,M016,Stanley p. Morrison Ltd.
+L030,M016,Bowmore Distillery Co Ltd.
+L031,M016,The Glen Garioch Whisky Co Ltd.
+L032,M017,Aberlour-Glenlivet Distillery Co Ltd.
+L033,M017,William Whiteley & Co Ltd.
+L034,M018,The Seagram Co Ltd.
+L035,M019,The Tomatin Distillery Co Ltd.
+L036,M020,William Teacher & Sons Ltd.
+L037,M021,Tobermory Distillers Ltd.
+L038,M022,John Dewar & Sons Ltd.
+L039,M022,John & Robert Harvey & Co Ltd.
+L040,M022,John Crabbie & Co Ltd.
+L041,M022,A & A Crawford Ltd.
+L042,M022,J & W Hardie Ltd.
+L043,M022,Arthur Bell & Sons PLC
+L044,M022,Bulloch, Lade & Co Ltd.
+L045,M022,John Walker & Sons Ltd.
+L046,M022,Ainslie & Heilbron (Distillers) Ltd.
+L047,M022,J & G Stewart Ltd.
+L048,M022,W.P. Lowrie & Co Ltd.
+L049,M022,D & J McCallum Ltd.
+L050,M022,White Horse Distillers Ltd.
+L051,M022,Scottish Malt Distillers Ltd.
+L052,M022,Benmore Distilleries Ltd.
+L053,M022,James Buchanan & Co Ltd.
+L054,M022,Macdonald Greenlees Ltd.
+L055,M022,William Sanderson & Son Ltd.
+L056,M022,John Haig & Co Ltd.
+L057,M022,John Gillon & Co Ltd.
+L058,M022,James Munro & Son Ltd.
+L059,M022,John McEwan & Co Ltd.
+L060,M022,Macleay Duff (Distillers) Ltd.
+L061,M022,George Cowie & Sons Ltd.
+L062,M022,Mitchell Brothers Ltd.
+L063,M022,John Hopkins & Co Ltd.
+L064,M022,Low Robertson & Co Ltd.
+L065,M022,The Distiller's Agency Ltd.
+L066,M022,John Bisset & Co Ltd.
+L067,M022,John Begg Ltd.
+L068,M022,John Robertson & Son Ltd.
+L069,M022,William Greer & Co Ltd.
+L070,M022,R.H. Thompson & Co (Distillers) Ltd.
+L071,M023,Ardbeg Distillery Ltd.
+L072,M023,George Ballantine & Son Ltd.
+L073,M023,James and George Stodart Ltd.
+L074,M023,Hiram Walker & Sons (Scotland) PLC
+L075,M023,Taylor & Ferguson Ltd.
+L076,M024,Whyte & Mackay Distillers Ltd.

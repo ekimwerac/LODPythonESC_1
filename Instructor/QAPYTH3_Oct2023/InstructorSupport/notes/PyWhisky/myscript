@@ -1,0 +1,10 @@
+#!/bin/bash
+                                                                                
+mysql -B -u root -psecret whisky << END | less
+SELECT BRANDS.BNAME, REGION.RNAME FROM BRANDS,REGION
+   WHERE REGION.REGION_ID = BRANDS.REGION_ID 
+   ORDER BY BRANDS.BNAME;
+quit
+END
+                                                                                
+

@@ -1,0 +1,5 @@
+linux2
+Platform: Linux-2.6.24-22-generic-i686-with-debian-lenny-sid
+Compiler: GCC 4.2.4 (Ubuntu 4.2.4-1ubuntu3)
+Python  : 3.0.1
+LibC : ('glibc', '2.4')

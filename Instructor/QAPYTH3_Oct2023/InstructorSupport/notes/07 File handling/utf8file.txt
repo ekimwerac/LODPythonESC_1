@@ -1,0 +1,3 @@
+This is a line of text
+This is a Euro symbol: €
+written in utf-8 format

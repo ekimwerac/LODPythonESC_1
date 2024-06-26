@@ -1,0 +1,159 @@
+L001,R001,Glen Scotia
+L002,R002,Littlemill
+L003,R003,Old Rhosdhu
+L003,R003,Inchmurrin
+L004,R003,The Glenturret
+L005,R004,Glenfarclas
+L006,R004,The Balvenie
+L006,R004,Glenfiddich
+L007,R006,Bunnahabhain
+L007,R004,Glenglassaugh
+L008,R004,Glenrothes
+L009,R005,Highland Park
+L010,R004,Tamdhu
+L011,R004,Glen Spey
+L012,R004,The Singleton of Auchroisk
+L013,R006,Bruichladdich
+L014,R007,Deanston
+L015,R004,Glenallachie
+L016,R008,Isle of Jura
+L017,R004,Tamnavulin
+L018,R003,Tullibardine
+L019,R004,Knockando
+L020,R003,Glengoyne
+L021,R004,Glen Deveron
+L022,R009,Ben Nevis
+L000,R010,Glenugie
+L000,R002,Kinclaith
+L023,R006,Laphroaig
+L024,R004,Tormore
+L025,R004,The Macallan
+L026,R011,Glenmorangie
+L027,R004,Glen Moray
+L028,R001,Longrow
+L028,R001,Springbank
+L029,R002,Auchentoshan
+L030,R006,Bowmore
+L031,R010,Glen Garioch
+L032,R004,Aberlour-Glenlivet
+L033,R003,Edradour
+L034,R004,Benriach
+L034,R004,Caperdonich
+L034,R004,Glen Grant
+L034,R004,Glen Keith
+L034,R004,Longmorn
+L034,R004,Strathisla
+L034,R004,The Glenlivet
+L035,R011,Tomatin
+L036,R004,Ardmore
+L036,R004,Glendronach
+L037,R012,Tobermory
+L038,R003,Aberfeldy
+L039,R004,Aultmore
+L040,R004,Balmenach
+L041,R004,Benrinnes
+L042,R018,Benromach
+L043,R002,Bladnoch
+L043,R003,Blair Athol
+L044,R006,Caol Ila
+L045,R004,Cardhu
+L046,R011,Clynelish
+L047,R004,Coleburn
+L048,R004,Convalmore
+L049,R004,Cragganmore
+L050,R004,Craigellachie
+L051,R004,Dailuaine
+L052,R004,Dallas Dhu
+L053,R011,Dalwhinnie
+L043,R004,Dufftown-Glenlivet
+L051,R011,Glen Albyn
+L054,R004,Glendullan
+L050,R004,Glen Elgin
+L055,R010,Glen Esk
+L056,R002,Glenkinchie
+L051,R009,Glenlochy
+L056,R004,Glenlossie
+L051,R011,Glen Mhor
+L038,R011,Glenordie
+L053,R004,Glentauchers
+L057,R010,Glenury-Royal
+L051,R004,Imperial
+LO43,R004,Inchgower
+L058,R004,Knockdhu
+L050,R006,Lagavulin
+L059,R004,Linkwood
+L060,R011,Millburn
+L061,R004,Mortlach
+L062,R010,North Port
+L063,R009,Oban
+L064,R006,Port Ellen
+L065,R002,Rosebank
+L066,R011,Royal Brackla
+L067,R010,Royal Lochnagar
+L068,R004,Speyburn
+L069,R002,St.Magdalene
+L045,R013,Talisker
+L070,R011,Teaninich
+L071,R006,Ardbeg
+L072,R011,Balblair
+L073,R004,Glenburgie
+L072,R010,Glencadam
+L074,R002,Inverleven
+L072,R018,Mosstowie
+L072,R018,Milton Duff
+L073,R011,Old Pulteney
+L075,R005,Scapa
+L076,R011,Dalmore
+L076,R010,Old Fettercairn
+L076,R004,Tomintoul-Glenlivet
+L053,R014,Strathconon
+L036,R015,Highland Cream
+L056,R015,Haig
+L056,R015,Dimple
+L056,R016,Choice Old Cameron Brig
+L038,R015,Dewar's White Label
+L038,R015,Ancestor
+L045,R015,Red Label
+L045,R015,Black Label
+L053,R015,Black and White
+L053,R015,The Buchanan Blend
+L053,R015,Buchanan's De Luxe
+L053,R015,House of Commons No.1
+L077,R015,Chivas Regal
+L047,R015,Green Stripe
+L047,R014,Usher's Old Vatted Glenlivet
+L047,R015,Jamie Stuart
+L047,R015,Antique Jamie Stuart
+L047,R015,Usher's Extra
+L078,R015,Cream of the Barley
+L079,R015,Red Hackle
+L065,R015,King George IV
+L065,R015,George IV Supreme
+L050,R015,White Horse
+L050,R015,Laird of Logan
+L055,R015,Vat 69
+L055,R015,The Antiquary
+L049,R015,Perfection
+L067,R015,Blue Cap
+L067,R015,Gold Cap
+L043,R015,Bell's
+L043,R015,The Golden Bell
+L043,R015,Royal Reserve
+L024,R015,Long John
+L024,R015,Islay Mist
+L024,R015,Black Bottle
+L080,R015,Queen Anne
+L080,R015,Something Special
+L081,R015,Famous Grouse
+L041,R015,Three Star
+L041,R015,Five Star
+L006,R015,Standfast
+L082,R015,Highland Queen
+L082,R015,Muirhead's
+L076,R015,Whyte and Mackay's
+L076,R015,Supreme
+L076,R015,21 Years Old
+L011,R015,Spey Royal
+L011,R015,Catto's Scottish Highland
+L074,R015,Ballantine's
+L074,R015,Ambassador

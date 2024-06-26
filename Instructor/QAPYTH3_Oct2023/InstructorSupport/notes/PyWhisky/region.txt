@@ -1,0 +1,18 @@
+R001,Campbeltown
+R002,Lowland
+R003,Highland (Southern)
+R004,Highland (Speyside)
+R005,Island, Orkney
+R006,Islay
+R007,Highland (Perthshire)
+R008,Island (Jura)
+R009,Highland (Western)
+R010,Highland (Eastern)
+R011,Highland (Northern)
+R012,Island (Mull)
+R013,Island (Skye)
+R014,Vatted Malt
+R015,Blend
+R016,Grain
+R017,Irish Whiskey
+R018,Highland

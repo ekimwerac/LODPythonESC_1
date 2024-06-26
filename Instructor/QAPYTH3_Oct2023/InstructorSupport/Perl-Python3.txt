@@ -1,0 +1,82 @@
+Perl			Python 3
+
+.			+ (overloaded)
+a cmp b			default sort
+a <=> b			key=int
+<STDIN>			sys.stdin.readline()
+0..a			range(a)
+
+$&			m.string[m.start():m.end()]
+$`			a[0:m.start()]
+$'			a[m.end():]
+$^O			sys.platform (os.name is different)
+$0			sys.argv[0]
+$$			os.getpid()
+$!			os.error()
+$|			flush()
+$/=undef		lines=open('filename').read()
+@ARGV			sys.argv
+%ENV			os.environ
+%SIG			signal.signal
+"$a"			No equivalent, but see module Itpl.py
+
+$#t			No equivalent
+@t in scalar context	len(t)
+
+use strict		Always on
+use warnings		Always on
+use constant		No equivalent
+
+do {<STDIN>}		input()		
+chr(i)			chr(i)
+close			f.close
+delete $d{k}		del d[k]
+each %d			d.iteritems()
+eval{...}		try:  
+exists $d{k}		k in d
+foreach			for a in t
+goto			No equivalent
+grep {code} list	filter(function, sequence)
+int()			int()
+length			len
+keys %d			d.keys()
+map {code} list		map(function, sequence)
+m//			re.search()/re.match()
+ord(a)			ord(a)
+open()			open()
+print STDOUT		print()
+print HANDLE		f.write()
+printf			see sprintf
+pop			list.pop
+push			list.append
+ref			type
+s//			sub()/subn()
+say			print()
+shift
+sleep			time.sleep
+sort(t)			sorted(t) 	returns a sorted list
+sort(t)			t.sort()	changes t in place
+sprintf	(fs, args)	fs % (args)	
+stat(file)		os.stat(file)
+substr			[n:m:s]		slice syntax
+system(cmd)		os.system(cmd)
+unshift			list[:0]=[a,b]
+values %d		d.values()
+q{string)		'''string'''	string cannot end in a '
+qq(string)		"""string"""	string cannot end in a "
+qw(zero one two three)	No equivalent, work-around:
+                        'zero one two three'.split(' ');
+
+where	@t is a Perl array and t is a Python list
+	%d is a Perl hash and d is a Python dictionary
+	i is an integer value
+	a is a scalar value
+	b is a scalar value
+	f is a Python file object
+	m is a Python match object
+	
+Further notes:
+	Assignments as conditionals are not supported in Python.
+	For example:
+		if (a = b) {..}
+		while (a = b()) {..}

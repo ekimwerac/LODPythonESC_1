@@ -1,0 +1,160 @@
+BNAME	RNAME
+21 Years Old	Blend
+Aberfeldy	Highland (Southern)
+Aberlour-Glenlivet	Highland (Speyside)
+Ambassador	Blend
+Ancestor	Blend
+Antique Jamie Stuart	Blend
+Ardbeg	Islay
+Ardmore	Highland (Speyside)
+Auchentoshan	Lowland
+Aultmore	Highland (Speyside)
+Balblair	Highland (Northern)
+Ballantine's	Blend
+Balmenach	Highland (Speyside)
+Bell's	Blend
+Ben Nevis	Highland (Western)
+Benriach	Highland (Speyside)
+Benrinnes	Highland (Speyside)
+Benromach	Highland
+Black and White	Blend
+Black Bottle	Blend
+Black Label	Blend
+Bladnoch	Lowland
+Blair Athol	Highland (Southern)
+Blue Cap	Blend
+Bowmore	Islay
+Bruichladdich	Islay
+Buchanan's De Luxe	Blend
+Bunnahabhain	Islay
+Caol Ila	Islay
+Caperdonich	Highland (Speyside)
+Cardhu	Highland (Speyside)
+Catto's Scottish Highland	Blend
+Chivas Regal	Blend
+Choice Old Cameron Brig	Grain
+Clynelish	Highland (Northern)
+Coleburn	Highland (Speyside)
+Convalmore	Highland (Speyside)
+Cragganmore	Highland (Speyside)
+Craigellachie	Highland (Speyside)
+Cream of the Barley	Blend
+Dailuaine	Highland (Speyside)
+Dallas Dhu	Highland (Speyside)
+Dalmore	Highland (Northern)
+Dalwhinnie	Highland (Northern)
+Deanston	Highland (Perthshire)
+Dewar's White Label	Blend
+Dimple	Blend
+Dufftown-Glenlivet	Highland (Speyside)
+Edradour	Highland (Southern)
+Famous Grouse	Blend
+Five Star	Blend
+George IV Supreme	Blend
+Glen Albyn	Highland (Northern)
+Glen Deveron	Highland (Speyside)
+Glen Elgin	Highland (Speyside)
+Glen Esk	Highland (Eastern)
+Glen Garioch	Highland (Eastern)
+Glen Grant	Highland (Speyside)
+Glen Keith	Highland (Speyside)
+Glen Mhor	Highland (Northern)
+Glen Moray	Highland (Speyside)
+Glen Scotia	Campbeltown
+Glen Spey	Highland (Speyside)
+Glenallachie	Highland (Speyside)
+Glenburgie	Highland (Speyside)
+Glencadam	Highland (Eastern)
+Glendronach	Highland (Speyside)
+Glendullan	Highland (Speyside)
+Glenfarclas	Highland (Speyside)
+Glenfiddich	Highland (Speyside)
+Glenglassaugh	Highland (Speyside)
+Glengoyne	Highland (Southern)
+Glenkinchie	Lowland
+Glenlochy	Highland (Western)
+Glenlossie	Highland (Speyside)
+Glenmorangie	Highland (Northern)
+Glenordie	Highland (Northern)
+Glenrothes	Highland (Speyside)
+Glentauchers	Highland (Speyside)
+Glenugie	Highland (Eastern)
+Glenury-Royal	Highland (Eastern)
+Gold Cap	Blend
+Green Stripe	Blend
+Haig	Blend
+Highland Cream	Blend
+Highland Park	Island
+Highland Queen	Blend
+House of Commons No.1	Blend
+Imperial	Highland (Speyside)
+Inchgower	Highland (Speyside)
+Inchmurrin	Highland (Southern)
+Inverleven	Lowland
+Islay Mist	Blend
+Isle of Jura	Island (Jura)
+Jamie Stuart	Blend
+Kinclaith	Lowland
+King George IV	Blend
+Knockando	Highland (Speyside)
+Knockdhu	Highland (Speyside)
+Lagavulin	Islay
+Laird of Logan	Blend
+Laphroaig	Islay
+Linkwood	Highland (Speyside)
+Littlemill	Lowland
+Long John	Blend
+Longmorn	Highland (Speyside)
+Longrow	Campbeltown
+Millburn	Highland (Northern)
+Milton Duff	Highland
+Mortlach	Highland (Speyside)
+Mosstowie	Highland
+Muirhead's	Blend
+North Port	Highland (Eastern)
+Oban	Highland (Western)
+Old Fettercairn	Highland (Eastern)
+Old Pulteney	Highland (Northern)
+Old Rhosdhu	Highland (Southern)
+Perfection	Blend
+Port Ellen	Islay
+Queen Anne	Blend
+Red Hackle	Blend
+Red Label	Blend
+Rosebank	Lowland
+Royal Brackla	Highland (Northern)
+Royal Lochnagar	Highland (Eastern)
+Royal Reserve	Blend
+Scapa	Island
+Something Special	Blend
+Spey Royal	Blend
+Speyburn	Highland (Speyside)
+Springbank	Campbeltown
+St.Magdalene	Lowland
+Standfast	Blend
+Strathconon	Vatted Malt
+Strathisla	Highland (Speyside)
+Supreme	Blend
+Talisker	Island (Skye)
+Tamdhu	Highland (Speyside)
+Tamnavulin	Highland (Speyside)
+Teaninich	Highland (Northern)
+The Antiquary	Blend
+The Balvenie	Highland (Speyside)
+The Buchanan Blend	Blend
+The Glenlivet	Highland (Speyside)
+The Glenturret	Highland (Southern)
+The Golden Bell	Blend
+The Macallan	Highland (Speyside)
+The Singleton of Auchroisk	Highland (Speyside)
+Three Star	Blend
+Tobermory	Island (Mull)
+Tomatin	Highland (Northern)
+Tomintoul-Glenlivet	Highland (Speyside)
+Tormore	Highland (Speyside)
+Tullibardine	Highland (Southern)
+Usher's Extra	Blend
+Usher's Old Vatted Glenlivet	Vatted Malt
+Vat 69	Blend
+White Horse	Blend
+Whyte and Mackay's	Blend

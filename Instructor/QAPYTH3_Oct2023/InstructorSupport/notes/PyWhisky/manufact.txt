@@ -1,0 +1,24 @@
+M001,Barton International Ltd.
+M002,Glen Catrine Bonded Warehouse Ltd.
+M003,The Glenturret Distillery Ltd.
+M004,J.& G. Grant
+M005,William Grant & Sons Ltd.
+M006,The Highland Distilleries Company Ltd.
+M007,International Distillers & Vintners Ltd.
+M008,The Invergordon Distiller & Vintners Ltd.
+M009,Justerini & Brooks Ltd.
+M010,Lang Brothers Ltd.
+M011,William Lawson Distillers Ltd.
+M012,Long John International Ltd.
+M013,The Macallan Distillers Ltd.
+M014,Macdonald & Muir Ltd.
+M015,J.& A. Mitchell & Co. Ltd.
+M016,Stanley P. Morrison Ltd.
+M017,Ricard International SA
+M018,The Seagram Company Ltd.
+M019,Takara Shuzo & Okura & Company Ltd.
+M020,William Teacher & Sons Ltd.
+M021,Tobermory Distillers Ltd.
+M022,United Distillers Group
+M023,Hiram Walker & Sons (Scotland) PLC
+M024,Whyte & Mackay Distillers Ltd.

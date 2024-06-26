@@ -1,0 +1,5 @@
+linux2
+('Platform:', 'Linux-2.6.24-22-generic-i686-with-debian-lenny-sid')
+('Compiler:', 'GCC 4.2.3 (Ubuntu 4.2.3-2ubuntu7)')
+('Python  :', '2.5.2')
+('LibC :', ('glibc', '2.4'))
